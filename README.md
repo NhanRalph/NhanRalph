@@ -14,7 +14,7 @@
 
 ### Frontend
 <div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,ts,javascript,jquery,bootstrap,sass,redux,tailwindcss,vercel" /><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,ts,javascript,jquery,bootstrap,sass,redux,tailwindcss,vercel&perline=5" /><br>
 </div>
 
 ### Backend
@@ -29,7 +29,7 @@
 
 ### Libraries & Tools
 <div>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,vscode,cloudflare,apple,npm,pnpm,vite,yarn,firebase,notion" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,vscode,cloudflare,apple,npm,pnpm,vite,yarn,firebase,notion&perline=5" /><br>
 </div>
 
 <br>
