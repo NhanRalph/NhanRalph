@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🌐 A Passionate web developer dedicated to mastering full-stack technologies, from frontend and backend to deployment
+### 🌐 A Passionate web developer dedicated to mastering MERN-stack technologies, from frontend and backend to deployment
 
 ###
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=01F700&&width=435&lines=Welcome+to+my+digital+playground!+%F0%9F%9A%80;Explore+my+GitHub%2C+and+let%E2%80%99s+dive+into+the+details+below.)](https://git.io/typing-svg)
@@ -34,7 +34,7 @@
 
 <br>
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NhanRalph&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false&order=2" height="320" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NhanRalph&locale=en&hide_title=true&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false&order=2" height="320" alt="languages graph"  />
 </div>
 
 <br>
